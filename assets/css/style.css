@@ -18,7 +18,7 @@
     }
 
     #menu li a:hover {
-        color: darkred;
+        color: greenyellow;
         font-size: 25px;
     }
 
@@ -30,4 +30,18 @@
         border-radius: 6%;
     }
 
-   
+    .ml50 {
+        margin: 10px 20px 30px 20px;
+    }
+    
+    .size {
+        font-size: 50px;
+    }
+
+    .sizetexto {
+        font-size: 21px;
+    }
+
+    .cor{
+        background: darkred
+    }
