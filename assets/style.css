@@ -1,0 +1,33 @@
+    .center {
+        text-align: center;
+    }
+
+    .size {
+        font-size: 21px;
+    }
+
+    #menu li {
+        display: inline;
+        padding: 15px;
+    }
+
+    #menu li a {
+        text-decoration: none;
+        color: black;
+        font-size: 21px;
+    }
+
+    #menu li a:hover {
+        color: darkred;
+        font-size: 25px;
+    }
+
+    .p-25 {
+        padding: 25px;
+    }
+
+    .br-6 {
+        border-radius: 6%;
+    }
+
+   
